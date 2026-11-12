@@ -5,7 +5,7 @@ Ovaj repozitorij **ne sadrži izvorni kod** — samo gotove izgradnje, objavljen
 
 Tražiš naredbeno-rednu (CLI) ili Android verziju? Vidi
 [terraconverter-releases-cli](https://github.com/zlatkobalas/terraconverter-releases-cli)
-ili [terraconverter-releases](https://github.com/zlatkobalas/terraconverter-releases).
+ili [terraconverter-releases-android](https://github.com/zlatkobalas/terraconverter-releases-android).
 
 ## Preuzimanja
 

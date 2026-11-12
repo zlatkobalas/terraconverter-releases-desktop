@@ -5,7 +5,7 @@ This repository contains **no source code** — only compiled builds, published 
 
 Looking for the command-line version or the Android app instead? See
 [terraconverter-releases-cli](https://github.com/zlatkobalas/terraconverter-releases-cli)
-or [terraconverter-releases](https://github.com/zlatkobalas/terraconverter-releases).
+or [terraconverter-releases-android](https://github.com/zlatkobalas/terraconverter-releases-android).
 
 ## Downloads
 
