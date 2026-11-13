@@ -9,7 +9,7 @@ or [terraconverter-releases-android](https://github.com/zlatkobalas/terraconvert
 
 ## Downloads
 
-- **Windows — Installer** (`TerraConverter_Setup_vX.Y.Z.exe`) — recommended for most users. Guided setup, Start Menu shortcut, clean uninstall via Windows "Apps & features".
+- **Windows — Installer** (`TerraConverter-vX.Y.Z-setup.exe`) — recommended for most users. Guided setup, Start Menu shortcut, clean uninstall via Windows "Apps & features".
 - **Windows — Portable** (`.zip`) — no installation, no admin rights, no registry changes. Extract anywhere and run `TerraConverter.exe` directly; useful for USB drives or restricted machines.
 
 ## Third-party components
